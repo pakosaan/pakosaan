@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/utshab pyakurel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utshab pyakurel" height="30" width="40" /></a>
 <a href="https://kaggle.com/pakosaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pakosaan" height="30" width="40" /></a>
-<a href="https://fb.com/utshab pyakurel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utshab pyakurel" height="30" width="40" /></a>
+<a href="https://fb.com/utshab pyakurel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="UtshabPyakurel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pakosaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pakosaan" height="30" width="40" /></a>
 </p>
 
