@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/utshab pyakurel" target="_blank" rel="noreferrer nofollow"><img align="center" src="icons/Social/linked-in-alt.svg" alt="utshab pyakurel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utshab-p-a91864ba" target="_blank" rel="noreferrer nofollow"><img align="center" src="icons/Social/linked-in-alt.svg" alt="utshab pyakurel" height="30" width="40" /></a>
 <a href="https://kaggle.com/pakosaan" target="_blank" rel="noreferrer nofollow"><img align="center" src="icons/Social/kaggle.svg" alt="pakosaan" height="30" width="40" /></a>
 <a href="https://fb.com/utshabpyakurel" target="_blank" rel="noreferrer nofollow"><img align="center" src="icons/Social/facebook.svg" alt="Utshab Pyakurel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pakosaan" target="_blank" rel="noreferrer nofollow"><img align="center" src="icons/Social/hackerrank.svg" alt="pakosaan" height="30" width="40" /></a>
